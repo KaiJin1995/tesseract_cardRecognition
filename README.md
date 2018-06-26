@@ -19,5 +19,6 @@ sudo apt-get install python-imaging
 python card_recognition [image_path]
 其中， image_path使用图片全路径
 
-
+证件示例：请参见博客
+https://blog.csdn.net/small_ARM/article/details/80816902
 
